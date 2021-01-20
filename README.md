@@ -29,5 +29,5 @@ python -m spacy download es_core_news_sm
 [spaCy](https://spacy.io/)
 [modelo español](https://spacy.io/models/es)
 
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/512px-SpaCy_logo.svg.png"></code>
-[HewelFo](https://www.github.com/HewelFo)
+<code><img height="30" src="https://avatars3.githubusercontent.com/u/58157906?s=400&u=c221828be1dc557f7f88b2e58f15055c3ae7f5ea&v=4"></code>
+[FuhrerhLemon](https://github.com/Fuhrerh-Lemon/Fuhrerh-Lemon)
