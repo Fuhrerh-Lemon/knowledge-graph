@@ -25,8 +25,9 @@ Modelo requerido
 python -m spacy download es_core_news_sm
 ```
 ### Referencias
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/512px-SpaCy_logo.svg.png"></code>
 [spaCy](https://spacy.io/)
-[spaCy](https://spacy.io/models/es)
+[modelo español](https://spacy.io/models/es)
 
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/512px-SpaCy_logo.svg.png"></code>
 [HewelFo](https://www.github.com/HewelFo)
